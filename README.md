@@ -1,2 +1,3 @@
 Script para geolocalizar una IP
-python3 Geo-Ip.py
+1) python3 Geo-Ip.py
+2) Ingresar la IP
