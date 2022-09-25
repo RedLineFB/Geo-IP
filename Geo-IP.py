@@ -3,8 +3,8 @@ import json
 
 def main():
 	
-	print("\n\nCreado por: RedLineFB\n")
-	print("\n\nInstagram: facundo_betancur97\n")
+	print("\n\nCreado por: RedLineFB")
+	print("\nInstagram: facundo_betancur97\n")
 	print("\n\nBIENVENIDO A Geo-IP\n")
 	IP = input("Ingrese una IP: ")	
 	scanner="https://ipinfo.io/{}/json".format(IP)  #Le pasamos la página con la ip cargada por el usuario
